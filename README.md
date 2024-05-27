@@ -27,14 +27,14 @@
 
 - **Languages**:
     
-[![My Skills](https://skillicons.dev/icons?i=py,docker,fastaapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastaapi)](https://skillicons.dev)
  
 <br>
 
 - **Softwares and Tools**:
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,docker,)](https://skillicons.dev)
 <br>
 
 - **Extras**:
