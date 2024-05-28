@@ -103,6 +103,7 @@
 <div align='center'>
 
 <h1 align="center"><b>F̷i̷n̷,̷ ̷d̷e̷ ̷m̷i̷ ̷r̷e̷p̷o̷s̷i̷t̷o̷r̷i̷o̷,̷ ̷e̷s̷p̷e̷r̷o̷ ̷l̷e̷s̷ ̷g̷u̷s̷t̷e̷...</b><img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="50"></h1>
+<picture> <img align="center" src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width = 480px></picture>
 
 </div>
 <br>
