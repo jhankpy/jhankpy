@@ -26,7 +26,7 @@
 <p align="center">
 
 - **Languages**:
-- <picture> <img align="right" src= "https://octodex.github.com/nuxtocat/" width = 480px></picture>
+- <picture> <img align="right" src= "https://octodex.github.com/images/NUX_Octodex.gif" width = 480px></picture>
 
     
 [![My Skills](https://skillicons.dev/icons?i=py,fastaapi)](https://skillicons.dev)
